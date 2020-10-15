@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/environment.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/environment.rb": {
         "lines": [
           null,
           1,
@@ -10,22 +10,12 @@
           1
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/application.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/application.rb": {
         "lines": [
           1,
           null,
           1,
           null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
           null,
           null,
           1,
@@ -39,116 +29,148 @@
           null,
           null,
           null,
-          null,
-          1,
           null,
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/boot.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/boot.rb": {
         "lines": [
           1,
+          null,
+          1,
+          1
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/environments/test.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/assets.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/content_security_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/cookies_serializer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
           null,
           1
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/environments/test.rb": {
-        "lines": [
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/application_controller_renderer.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/assets.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/backtrace_silencers.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/cookies_serializer.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          1
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/filter_parameter_logging.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/filter_parameter_logging.rb": {
         "lines": [
           null,
           null,
@@ -156,7 +178,7 @@
           1
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/inflections.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/inflections.rb": {
         "lines": [
           null,
           null,
@@ -176,7 +198,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/mime_types.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/mime_types.rb": {
         "lines": [
           null,
           null,
@@ -184,7 +206,49 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/initializers/wrap_parameters.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/new_framework_defaults_5_2.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/initializers/wrap_parameters.rb": {
         "lines": [
           null,
           null,
@@ -202,54 +266,34 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/config/routes.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/config/routes.rb": {
         "lines": [
           1,
           null,
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/app/helpers/application_helper.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/app/models/professor.rb": {
-        "lines": [
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/spec/models/professor_student_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          null,
-          1,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/app/models/professor_student.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/app/models/professor.rb": {
         "lines": [
           1,
           null,
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/spec/models/student_spec.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/spec/models/professor_student_spec.rb": {
         "lines": [
           1,
           null,
@@ -258,6 +302,26 @@
           1,
           2,
           2,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/app/models/professor_student.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/spec/models/student_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
           2,
           null,
           null,
@@ -269,7 +333,7 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/assessments/hogwarts_again/app/models/student.rb": {
+      "/Users/brian/turing/2module/challenges/hogwarts_mod2/app/models/student.rb": {
         "lines": [
           1,
           null,
@@ -277,6 +341,6 @@
         ]
       }
     },
-    "timestamp": 1585277960
+    "timestamp": 1602797426
   }
 }
