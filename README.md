@@ -1,3 +1,14 @@
+### Tamara's reflection
+I was nervous before starting because it feels like this mod has hit me ‘like a mac truck’. I spent a lot of time reviewing the content before I started the IC. 
+
+Holy cows, for me, this IC was a much better experience than the last mod. I feel like it was straightforward and I had the skills to walk my way through the error codes and add the code I needed. In the end, I could not figure out how to call the average student age from the model and ended up just writing it in the controller. So that is something I will focus on while working on the Adopt project. 
+
+I felt super happy in the end. Looking forward to feedback. I realised that I missed the extensions (just now coming back) and feel like I probably could have done them. 
+
+Cheerio! :0)
+
+
+
 # Hogwarts Again
 
 ## Setup instructions:
