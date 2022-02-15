@@ -6,6 +6,7 @@ class ProfessorsController < ApplicationController
 
   def show
     @professor = Professor.find(params[:id])
+    @average_student_age = @professor.students.average(:age).round(1)
   end
 
   def new
